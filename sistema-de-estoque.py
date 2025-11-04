@@ -3,6 +3,7 @@ SISTEMA DE ESTOQUE
 Projeto Integrado Inovação - ADS
 
 Aluno: Luis Eduardo de Melo Barros Santos Ribeiro
+Matricula: 62491758
 
 """
 
@@ -250,4 +251,5 @@ while True:
     else:
         print("Opção inválida! Tente novamente.")
     
+
     input("\nPressione ENTER para continuar...")
